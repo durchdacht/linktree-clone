@@ -1,6 +1,6 @@
 # LinkTree Clone
 
-A simple LinkTree clone with admin panel, created by [@durchdacht](https://github.com/durchdacht).
+A simple LinkTree clone with admin panel.
 
 ## Features
 
